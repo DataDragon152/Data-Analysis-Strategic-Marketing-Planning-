@@ -1,6 +1,5 @@
 # Data-Analysis-Strategic-Marketing-Planning-
 
-# **Sales Analysis and Revenue Prediction**
 
 ## **Project Overview**
 This project focuses on:
