@@ -44,7 +44,7 @@ This project focuses on:
 - **EDA and Visualization**: Pandas, Matplotlib, Seaborn.
 - **Modeling Tools**: LightGBM, CatBoost, XGBoost.
 
---
+---
 
 ## **Conclusion**
 By leveraging **data-driven insights** and implementing tailored marketing strategies, this project aims to achieve:
